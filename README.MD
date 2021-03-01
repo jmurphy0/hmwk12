@@ -38,8 +38,8 @@ test in node
 
 ## Video and Links
 
-demo videos are in assets folder of repo:
+demo videos are in assets folder of repo: https://github.com/jmurphy0/hmwk12/blob/master/assets/hmwk12lowres.mov
 
 ![alttext](assets/hmwk12lowres.mov)
 
-repo link:
+repo link: https://github.com/jmurphy0/hmwk12.git
